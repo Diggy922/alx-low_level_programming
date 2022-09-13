@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet - function to print abc
+ * print_alphaber - function to print abc
  *
  * Return: 0
  */
-void print_alphabet(void)
+void print_alphaber(void)
 {
 	char c;
 
