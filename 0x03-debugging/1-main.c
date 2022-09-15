@@ -13,7 +13,7 @@ printf("Infinite loop incoming :(\n");
 
 i = 0;
 /*
-* while (1 < 10)
+* while (i < 10)
 * {
 * putchar(i);
 * }
