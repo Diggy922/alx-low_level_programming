@@ -4,6 +4,7 @@
  *puts_half - function that prints half of a string, followed by a new line
  *
  *@str: This is the input string
+ *Return: nothing
  */
 
 void puts_half(char *str)
@@ -11,7 +12,7 @@ void puts_half(char *str)
 	int index, half;
 
 	index = 0;
-	while (str[index] != '\0')
+	while (str(index) != '\0')
 		index++;
 
 	half = index / 2;
@@ -21,7 +22,7 @@ void puts_half(char *str)
 
 	while (half < index)
 	{
-		_putchar(str[half]);
+		_putchar(str(half));
 		half++;
 	}
 	_putchar('\n');
