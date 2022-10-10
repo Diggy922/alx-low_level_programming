@@ -1,0 +1,6 @@
+0 - poppy
+1 - function that initialize a variable
+2 - function that prints a struct dog
+3 - define a new type of dog
+4 - function that creates a new dog
+5 - function that frees dogs
