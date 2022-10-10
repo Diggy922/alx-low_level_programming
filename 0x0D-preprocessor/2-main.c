@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - prints the file name of the program
+* main - prints the name of the file of the program
+* was compiled from, follwed by a new line.
 *
-* Return: Always zero
+* Return: Always 0
 */
 
 int main(void)
